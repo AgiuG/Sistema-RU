@@ -1,2 +1,2 @@
 # Sistema-RU
-Projeto Laboratório de Programação 1
+Projeto Disciplina de Programação 1
